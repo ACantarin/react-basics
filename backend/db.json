@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "André Cantarin do Rosário",
+      "email": "andrecantarin@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Camila Maria Oliveira de Azeredo",
+      "email": "camiazeredo@gmail.com"
+    }
+  ]
+}
